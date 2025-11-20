@@ -207,11 +207,11 @@
       });
     }
   }
-})({"1EOWX":[function(require,module,exports,__globalThis) {
+})({"eANVF":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
-var HMR_SERVER_PORT = 51380;
+var HMR_SERVER_PORT = 51744;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "439701173a9199ea";
 var HMR_USE_SSE = false;
@@ -806,6 +806,6 @@ const handleSetTimerBtn = ()=>{
 };
 timerBtn.addEventListener("click", handleSetTimerBtn);
 
-},{}]},["1EOWX","6kb64"], "6kb64", "parcelRequirea2a3", {})
+},{}]},["eANVF","6kb64"], "6kb64", "parcelRequirea2a3", {})
 
 //# sourceMappingURL=goit-js-hw4_10.6528c13b.js.map
